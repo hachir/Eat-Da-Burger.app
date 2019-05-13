@@ -6,12 +6,12 @@ html {
 body {
     margin-bottom: 45px;
     background-color: #343A40;
-      -webkit-text-fill-color:  #20c997d1;
-      color: var(--pink);
+      -webkit-text-fill-color:#0d93a8
+      
 }
 
 .card-header {
-    background-color: #EE6E73;
+    background-color: #fabc00;
     color: #fff;
 }
 

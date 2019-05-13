@@ -1,14 +1,14 @@
 {
-  "name": "Eat-Da-Burger",
+  "name": "mysql-sequelize-herkoku",
   "version": "1.0.0",
-  "description": "A Burger devouring app using the MVC pattern",
-  "main": "index.js",
+  "description": "A Burger devouring app using the  pattern",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hachir?tab=repositories"
+    "url": "https://github.com/hachir?tab=repositories"
   },
   "keywords": [],
   "author": "",
