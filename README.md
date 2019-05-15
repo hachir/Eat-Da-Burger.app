@@ -37,8 +37,8 @@ Define models that GET data using validations
 Implement CRUD methods using Sequelize
 Implement Sequelize associations to join one or more tables
 Configure Heroku for deployment of an application using Sequelize
-.
-├── config
+
+'├── config
 │   ├── connection.js
 │   └── orm.js
 │ 
@@ -71,5 +71,7 @@ Configure Heroku for deployment of an application using Sequelize
     └── layouts
         └── main.handlebars
 
+ link to the website: 
 
-*Hayder Achir*
+ "https://afternoon-tor-10929.herokuapp.com/"
+ *Hayder Achir*
