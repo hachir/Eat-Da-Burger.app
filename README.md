@@ -38,7 +38,7 @@ Implement CRUD methods using Sequelize
 Implement Sequelize associations to join one or more tables
 Configure Heroku for deployment of an application using Sequelize
 
-'├── config
+#├── config
 │   ├── connection.js
 │   └── orm.js
 │ 
