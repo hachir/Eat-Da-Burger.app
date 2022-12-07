@@ -19,7 +19,7 @@
   "homepage": "https://github.com/hachir?tab=repositories",
   "dependencies": {
     "body-parser": "latest",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-handlebars": "^3.0.0",
     "module": "^1.2.5",
     "mysql": "^2.15.0"
